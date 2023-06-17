@@ -1,0 +1,8 @@
+C:\Users\Deimer\Desktop\curso de c#\tipos-de-datos\tipos-de-datos\bin\Debug\tipos-de-datos.exe.config
+C:\Users\Deimer\Desktop\curso de c#\tipos-de-datos\tipos-de-datos\bin\Debug\tipos-de-datos.exe
+C:\Users\Deimer\Desktop\curso de c#\tipos-de-datos\tipos-de-datos\bin\Debug\tipos-de-datos.pdb
+C:\Users\Deimer\Desktop\curso de c#\tipos-de-datos\tipos-de-datos\obj\Debug\tipos-de-datos.csproj.AssemblyReference.cache
+C:\Users\Deimer\Desktop\curso de c#\tipos-de-datos\tipos-de-datos\obj\Debug\tipos-de-datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deimer\Desktop\curso de c#\tipos-de-datos\tipos-de-datos\obj\Debug\tipos-de-datos.csproj.CoreCompileInputs.cache
+C:\Users\Deimer\Desktop\curso de c#\tipos-de-datos\tipos-de-datos\obj\Debug\tipos-de-datos.exe
+C:\Users\Deimer\Desktop\curso de c#\tipos-de-datos\tipos-de-datos\obj\Debug\tipos-de-datos.pdb

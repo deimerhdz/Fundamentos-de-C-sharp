@@ -1,0 +1,8 @@
+C:\Users\Deimer\Desktop\curso de c#\presentacion1\presentacion1\bin\Debug\presentacion1.exe.config
+C:\Users\Deimer\Desktop\curso de c#\presentacion1\presentacion1\bin\Debug\presentacion1.exe
+C:\Users\Deimer\Desktop\curso de c#\presentacion1\presentacion1\bin\Debug\presentacion1.pdb
+C:\Users\Deimer\Desktop\curso de c#\presentacion1\presentacion1\obj\Debug\presentacion1.csproj.AssemblyReference.cache
+C:\Users\Deimer\Desktop\curso de c#\presentacion1\presentacion1\obj\Debug\presentacion1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deimer\Desktop\curso de c#\presentacion1\presentacion1\obj\Debug\presentacion1.csproj.CoreCompileInputs.cache
+C:\Users\Deimer\Desktop\curso de c#\presentacion1\presentacion1\obj\Debug\presentacion1.exe
+C:\Users\Deimer\Desktop\curso de c#\presentacion1\presentacion1\obj\Debug\presentacion1.pdb
